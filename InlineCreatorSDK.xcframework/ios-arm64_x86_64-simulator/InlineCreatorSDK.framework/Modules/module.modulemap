@@ -1,0 +1,11 @@
+framework module InlineCreatorSDK {
+  umbrella header "InlineCreatorSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module InlineCreatorSDK.Swift {
+    header "InlineCreatorSDK-Swift.h"
+    requires objc
+}
