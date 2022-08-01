@@ -996,6 +996,14 @@
 		<data>
 		fO1+FABIW6KsuDmnA+KmgDVSBrM=
 		</data>
+		<key>ICSDKCommon.storyboardc/ICPSDKNoInternetViewController.nib/objects-12.3+.nib</key>
+		<data>
+		EeDPsktEWaF6LmoqGkrzwtnsajk=
+		</data>
+		<key>ICSDKCommon.storyboardc/ICPSDKNoInternetViewController.nib/runtime.nib</key>
+		<data>
+		EeDPsktEWaF6LmoqGkrzwtnsajk=
+		</data>
 		<key>ICSDKCommon.storyboardc/ICSDKColorPalletViewController.nib/objects-12.3+.nib</key>
 		<data>
 		KhxyU94Flxnth02Wj4caVIaya/A=
@@ -1011,14 +1019,6 @@
 		<key>ICSDKCommon.storyboardc/ICSDKMediaPickerViewController.nib/runtime.nib</key>
 		<data>
 		EabniqZLiRAdfGaatydDUaHh35Y=
-		</data>
-		<key>ICSDKCommon.storyboardc/ICSDKNoInternetViewController.nib/objects-12.3+.nib</key>
-		<data>
-		lYXKrogWR+jXvpgAgudUVj3b6XU=
-		</data>
-		<key>ICSDKCommon.storyboardc/ICSDKNoInternetViewController.nib/runtime.nib</key>
-		<data>
-		lYXKrogWR+jXvpgAgudUVj3b6XU=
 		</data>
 		<key>ICSDKCommon.storyboardc/ICSDKPickerViewController.nib/objects-12.3+.nib</key>
 		<data>
@@ -1038,7 +1038,7 @@
 		</data>
 		<key>ICSDKCommon.storyboardc/Info.plist</key>
 		<data>
-		qt3Hy9sToneJ2LTR64GfpTfyxMA=
+		smsla0WRi0aXs34cLv/FKY+Rl+A=
 		</data>
 		<key>ICSDKCommon.storyboardc/SGw-2X-Tkk-view-HZ1-CG-Im2.nib/objects-12.3+.nib</key>
 		<data>
@@ -1606,7 +1606,7 @@
 		</data>
 		<key>IPSDKPlayer.storyboardc/MuZ-du-1aR-view-6Ro-wz-JEX.nib</key>
 		<data>
-		V3RVyzKiGb375sDoLEnUwTwJyE8=
+		oy+RxKOQEd2/4hT4uDW8yZ2tUGk=
 		</data>
 		<key>IPSDKPlayer.storyboardc/Xno-lI-gok-view-JJN-Nj-uKQ.nib</key>
 		<data>
@@ -1630,19 +1630,19 @@
 		</data>
 		<key>IPSDKShowMe.storyboardc/Cny-RD-Qua-view-gUi-jy-wb1.nib/objects-12.3+.nib</key>
 		<data>
-		QXiZ6CbRK2giSSUoBG1UnvVEz9E=
+		8pirWRPBmpJmr6K3r2ww3FoB8w8=
 		</data>
 		<key>IPSDKShowMe.storyboardc/Cny-RD-Qua-view-gUi-jy-wb1.nib/runtime.nib</key>
 		<data>
-		9MbIEBPcY/tVxziA+crYRQrgtmI=
+		5prD/8r0xH5M0sKtG97OG94X9qw=
 		</data>
 		<key>IPSDKShowMe.storyboardc/HV1-5f-UGF-view-0fa-Q3-ftu.nib/objects-12.3+.nib</key>
 		<data>
-		V6ud+migfXHeInq0eejW96kL0fc=
+		6FZEuqDa1fhFFTsKLP7X4mv64zg=
 		</data>
 		<key>IPSDKShowMe.storyboardc/HV1-5f-UGF-view-0fa-Q3-ftu.nib/runtime.nib</key>
 		<data>
-		V6ud+migfXHeInq0eejW96kL0fc=
+		6FZEuqDa1fhFFTsKLP7X4mv64zg=
 		</data>
 		<key>IPSDKShowMe.storyboardc/IPSDKGiphyViewController.nib/objects-12.3+.nib</key>
 		<data>
@@ -1698,15 +1698,15 @@
 		</data>
 		<key>IPSDKShowMe.storyboardc/fsO-CL-z31-view-beJ-1C-3Zj.nib/objects-12.3+.nib</key>
 		<data>
-		MMt6d6ed7y2u0kn+G7JaxHc1Wkc=
+		gykbojvjDsfUEcfKbTQxOZW5hJg=
 		</data>
 		<key>IPSDKShowMe.storyboardc/fsO-CL-z31-view-beJ-1C-3Zj.nib/runtime.nib</key>
 		<data>
-		MMt6d6ed7y2u0kn+G7JaxHc1Wkc=
+		gykbojvjDsfUEcfKbTQxOZW5hJg=
 		</data>
 		<key>IPSDKTooltipView.nib</key>
 		<data>
-		l/VOyAt6DrBPnwLMn9cQM0Nwh1Q=
+		QBIDYscT82fWI92FnAuzmHLHsc4=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -1734,7 +1734,7 @@
 		</data>
 		<key>Modules/InlineCreatorSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		jfAk8j/RnLL9f7wZvV5NHFtzZxg=
+		DhYaPkG3VnA/fej85qMG2vOKFeU=
 		</data>
 		<key>Modules/InlineCreatorSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -1746,7 +1746,7 @@
 		</data>
 		<key>Modules/InlineCreatorSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		GT/7kxPAFgpHDjrdpGLz30IM+cY=
+		6ae74QKNqVC9XExtT5n0Xh5M1V4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1836,6 +1836,18 @@
 		<data>
 		lDzlGI1QKu/uBPtftDFF+gGGUK0=
 		</data>
+		<key>PlayerSDK.bundle/guide_me_circular.png</key>
+		<data>
+		v1F0deL0A34WNFX3qA/sbxEW0Oc=
+		</data>
+		<key>PlayerSDK.bundle/guide_me_circular@2.png</key>
+		<data>
+		k+leziI0ZXRC4YDcRTiDk27u2eU=
+		</data>
+		<key>PlayerSDK.bundle/guide_me_circular@3.png</key>
+		<data>
+		BiHl4PpzYSk1NNgjdoMseG52Bk8=
+		</data>
 		<key>PlayerSDK.bundle/logout.png</key>
 		<data>
 		vs/qcT9OVMPjw5FlX+CO+hetCQ4=
@@ -1860,17 +1872,29 @@
 		<data>
 		sKkned4TRDDkjKd0LxfAqhks2nE=
 		</data>
+		<key>PlayerSDK.bundle/player_profile_icon.png</key>
+		<data>
+		RujtFh3peD9MbxZXQXoSbg/1d+0=
+		</data>
+		<key>PlayerSDK.bundle/player_profile_icon@2x.png</key>
+		<data>
+		iHiWl2HN5Y8/2N4Z9ktSor0VdMI=
+		</data>
+		<key>PlayerSDK.bundle/player_profile_icon@3x.png</key>
+		<data>
+		0Ppr8+zjt6nh7j8YtzZYrSrwvDo=
+		</data>
 		<key>PlayerSDK.bundle/refresh.png</key>
 		<data>
-		ZKh783hv1LV538NESj+UR5oQxQ0=
+		z//zyqul0hxmSQJ+Za6lnYKVngY=
 		</data>
 		<key>PlayerSDK.bundle/refresh@2x.png</key>
 		<data>
-		gUIQrTrV1mmuSPrvhuA+e5nNbO0=
+		NpstAw9bSv67x5wd0viERyymETE=
 		</data>
 		<key>PlayerSDK.bundle/refresh@3x.png</key>
 		<data>
-		eCD2xr9uOd7fLgGFjOu0Jucw+uA=
+		1XiAteWXGqe2HntG2VXDNPaP4zA=
 		</data>
 		<key>PlayerSDK.bundle/shape_delete.png</key>
 		<data>
@@ -1920,6 +1944,18 @@
 		<data>
 		H0fs1qK790Kjhu6iQmLOM60FjRE=
 		</data>
+		<key>PlayerSDK.bundle/show_me_circular.png</key>
+		<data>
+		+pnpdji2i0Ab2zhVvQ369FZfBpo=
+		</data>
+		<key>PlayerSDK.bundle/show_me_circular@2x.png</key>
+		<data>
+		UD9LPG8bNn6PdmYJgqqHEIaKyWU=
+		</data>
+		<key>PlayerSDK.bundle/show_me_circular@3x.png</key>
+		<data>
+		ivVTUBRemepEQX35HKQk7CbloVo=
+		</data>
 		<key>PlayerSDK.bundle/slideshow.png</key>
 		<data>
 		4oPrn50J2YOVD2d47VS0b2iMrEQ=
@@ -1932,17 +1968,17 @@
 		<data>
 		F6vvIq7KSHPRO4qV0mAMei/F+DA=
 		</data>
-		<key>PlayerSDK.bundle/sorting_icon.png</key>
+		<key>PlayerSDK.bundle/sorting.png</key>
 		<data>
-		x6saj4g+K1iTGBo838YYprFktuQ=
+		gRWuNu/Ga4tbZBoP6vH6VRcyzUU=
 		</data>
-		<key>PlayerSDK.bundle/sorting_icon@2x.png</key>
+		<key>PlayerSDK.bundle/sorting@2x.png</key>
 		<data>
-		4hX87a/FuaWT/T603BIUx4Fib3w=
+		UUOCc4/ed2NcUr7IaW7TqU4h4uM=
 		</data>
-		<key>PlayerSDK.bundle/sorting_icon@3x.png</key>
+		<key>PlayerSDK.bundle/sorting@3x.png</key>
 		<data>
-		cyy55S7veT1YAWrtXWoJ1dIOSHQ=
+		MTELSMt7fk5eK76dtDJb0ERsfGc=
 		</data>
 		<key>PlayerSDK.bundle/video.png</key>
 		<data>
@@ -3695,6 +3731,20 @@
 			rcOIJYMD/EBAqwhlMdbAg6Qb+fdblVYErMlJG8EZgVw=
 			</data>
 		</dict>
+		<key>ICSDKCommon.storyboardc/ICPSDKNoInternetViewController.nib/objects-12.3+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4ne91DLuOEThwNUf+glIREyoMHOOgsNFL6mrrhmEfi8=
+			</data>
+		</dict>
+		<key>ICSDKCommon.storyboardc/ICPSDKNoInternetViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4ne91DLuOEThwNUf+glIREyoMHOOgsNFL6mrrhmEfi8=
+			</data>
+		</dict>
 		<key>ICSDKCommon.storyboardc/ICSDKColorPalletViewController.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -3721,20 +3771,6 @@
 			<key>hash2</key>
 			<data>
 			NunLU7MKZo1ev2h/+/ceHHrLLaJB+Mar1fFrDp+2I7E=
-			</data>
-		</dict>
-		<key>ICSDKCommon.storyboardc/ICSDKNoInternetViewController.nib/objects-12.3+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Tv0TrksWtcsnmyv1kgxSi3W1fKSI1Pf1DcZHPoXet40=
-			</data>
-		</dict>
-		<key>ICSDKCommon.storyboardc/ICSDKNoInternetViewController.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Tv0TrksWtcsnmyv1kgxSi3W1fKSI1Pf1DcZHPoXet40=
 			</data>
 		</dict>
 		<key>ICSDKCommon.storyboardc/ICSDKPickerViewController.nib/objects-12.3+.nib</key>
@@ -3769,7 +3805,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TWYoI5T80XHkjE9R/CtvfWizJfKAdyb/fz7R58nXcpw=
+			nWItYBHLM6tpWOCqshRVBM7KZO0VETcXye1GRsTXdMs=
 			</data>
 		</dict>
 		<key>ICSDKCommon.storyboardc/SGw-2X-Tkk-view-HZ1-CG-Im2.nib/objects-12.3+.nib</key>
@@ -4763,7 +4799,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TkJS1A/AfumRootWV6i76fn2ffadRJUgMdIZj/7Vkco=
+			i+g/P/wjthq18gmPzOo6aH1mIdApOlnpVtNB9psfJRw=
 			</data>
 		</dict>
 		<key>IPSDKPlayer.storyboardc/Xno-lI-gok-view-JJN-Nj-uKQ.nib</key>
@@ -4805,28 +4841,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tdoYMsCbBLY4qBdnpsq7Txtfs/7i/rC/fOSRY786PZA=
+			6+tqRt/dRfYA6YRbfe9T2GqLKI8I87lBSLg1U7cqMNQ=
 			</data>
 		</dict>
 		<key>IPSDKShowMe.storyboardc/Cny-RD-Qua-view-gUi-jy-wb1.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/mLb71Q8+XAlY4MLSc+h3BOtWqHaXErSrqVNjQ1eqfU=
+			iYLScUcZPEDQ9X3Jz/akuNQ1yK/BcEzFWdGj70sLcX8=
 			</data>
 		</dict>
 		<key>IPSDKShowMe.storyboardc/HV1-5f-UGF-view-0fa-Q3-ftu.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vXYgPGgocx10YIK4PpjS3c668K2hcx4KFL9TsiiEmro=
+			59jPRgd0XH7f9J1UNAs8YA7KLnzbitZcP2m1jnwgG0w=
 			</data>
 		</dict>
 		<key>IPSDKShowMe.storyboardc/HV1-5f-UGF-view-0fa-Q3-ftu.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vXYgPGgocx10YIK4PpjS3c668K2hcx4KFL9TsiiEmro=
+			59jPRgd0XH7f9J1UNAs8YA7KLnzbitZcP2m1jnwgG0w=
 			</data>
 		</dict>
 		<key>IPSDKShowMe.storyboardc/IPSDKGiphyViewController.nib/objects-12.3+.nib</key>
@@ -4924,21 +4960,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vZ6lJlaLg3zRvsVrGl/t6TIXmcy79KwenzJXNPQ/nyc=
+			xgrrlmNzWl0eZ5RDCwnwfzxgNR4Q5b+SXdXZNDso5XY=
 			</data>
 		</dict>
 		<key>IPSDKShowMe.storyboardc/fsO-CL-z31-view-beJ-1C-3Zj.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vZ6lJlaLg3zRvsVrGl/t6TIXmcy79KwenzJXNPQ/nyc=
+			xgrrlmNzWl0eZ5RDCwnwfzxgNR4Q5b+SXdXZNDso5XY=
 			</data>
 		</dict>
 		<key>IPSDKTooltipView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vxOqZAgUpCXyOFhGHGHo6IKbAakSOWtz/WcEkP0BXco=
+			L0kxyiCxYbexRvvwfdQduWu7/JCXAuVl28Pxp2CvDI4=
 			</data>
 		</dict>
 		<key>LaunchIcon.bundle/launch_icon.png</key>
@@ -4980,7 +5016,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+kpzyBlTqR9vKX7qfdMQ8rUFfnYZlUkgd+scqRh3g1E=
+			3enRfzMQpJ+JlOU6isR3B1NbxvCeBkQfOoHhaZVV78k=
 			</data>
 		</dict>
 		<key>Modules/InlineCreatorSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -5001,7 +5037,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6KJna6cWh5CMvSj5Fm3Vyy9z0bz+lZbXXYi8dEG6vsg=
+			LFAuVuem8Gx7qqdrsiaD9v/R+6WEUcTOMXKDEFaUudQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -5158,6 +5194,27 @@
 			QkWiw3MMDyLn7q4N+EVaz6sVFeHGIydpDYi0vCzhNxU=
 			</data>
 		</dict>
+		<key>PlayerSDK.bundle/guide_me_circular.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ehy+/EBLTdKvQAyE5lRj+5snauUHhfVWY4s3IpoX8sA=
+			</data>
+		</dict>
+		<key>PlayerSDK.bundle/guide_me_circular@2.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MoryqBrXxUx9nPcBMIoOo4M+4JFj1RA7Gt+/xxjJIf8=
+			</data>
+		</dict>
+		<key>PlayerSDK.bundle/guide_me_circular@3.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NS0gM8q5FqQknymydbYpvoDbSXwRAGXIqtS1KdPjlrs=
+			</data>
+		</dict>
 		<key>PlayerSDK.bundle/logout.png</key>
 		<dict>
 			<key>hash2</key>
@@ -5200,25 +5257,46 @@
 			f9o4R0iThzQjk4OcFziVbr5/NpL93hgAWKjTkqNLnT8=
 			</data>
 		</dict>
+		<key>PlayerSDK.bundle/player_profile_icon.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3mg1N0cbQ+3hNUGNMbuLBm5czetx4097UU1fVfzPrRg=
+			</data>
+		</dict>
+		<key>PlayerSDK.bundle/player_profile_icon@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2vLldJGQfr9YrOZKibF1xHvM1u8M78rujqYPgkLLgHA=
+			</data>
+		</dict>
+		<key>PlayerSDK.bundle/player_profile_icon@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			O5AsIBAcxkcml85/vl7j8d4j71V4Za2/nRbh/AwO7Nw=
+			</data>
+		</dict>
 		<key>PlayerSDK.bundle/refresh.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sDELq6Foc74gKio7kJB3Qqj1S/xAJ9njNBSXhPl6Os4=
+			dW+6hm+lzu+rFtPa6Y+xm2T32nq+5iwgnn4EXnIFJ4o=
 			</data>
 		</dict>
 		<key>PlayerSDK.bundle/refresh@2x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7qS9NNqwNsPj+Qik1LriD2mxcMSjTFih1ONuS0QzXMk=
+			yQk6+Igfv3e/iPfWhWBDe2gSxK9iX0H8sZB8WRIRwfs=
 			</data>
 		</dict>
 		<key>PlayerSDK.bundle/refresh@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			66TwplWA9G9QON4uhCg9Y5IN798spzwRafpKdWpza0A=
+			QNPA3txGeBxvlitF4PME9Z6/QzaOVon3K3TIVOeQrnA=
 			</data>
 		</dict>
 		<key>PlayerSDK.bundle/shape_delete.png</key>
@@ -5305,6 +5383,27 @@
 			fLI+mOl/qE/BsRXaC6OY4zMeFf4nB4Jj5+kZ7FJmvjg=
 			</data>
 		</dict>
+		<key>PlayerSDK.bundle/show_me_circular.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wrtN/ZLwb/YqhgxTrhkrNTXyw0en32Zm1cNwIJRtIjA=
+			</data>
+		</dict>
+		<key>PlayerSDK.bundle/show_me_circular@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MSvoQmUmE+wXdHJ2tzzFFnB+MBSGKLPj4+5ug4Q/EE4=
+			</data>
+		</dict>
+		<key>PlayerSDK.bundle/show_me_circular@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			asdLIgQwS7gH/wDzbCJoeGI6H+4hNiA8WeI5tSpHkuA=
+			</data>
+		</dict>
 		<key>PlayerSDK.bundle/slideshow.png</key>
 		<dict>
 			<key>hash2</key>
@@ -5326,25 +5425,25 @@
 			ACqdCbVSRUr/NFY8GP1a16YEypcve4t/6k1AUsXP5V0=
 			</data>
 		</dict>
-		<key>PlayerSDK.bundle/sorting_icon.png</key>
+		<key>PlayerSDK.bundle/sorting.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Gs2dunoS+iWwBW9mrHvEanfYSDzVKrSkXYGeHtBz5zI=
+			BzFzxQSPAVJwZTZHMO/6HODIlhdZGY9t0S8qam9P+w4=
 			</data>
 		</dict>
-		<key>PlayerSDK.bundle/sorting_icon@2x.png</key>
+		<key>PlayerSDK.bundle/sorting@2x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oVtUxCxOMuC7vu8FLP9LkgrtVPHZ86yzoiJeLKip/yQ=
+			RTXdBJeOT77Q/o0jksHLewSGjaljBn4GG9gPeLM6noQ=
 			</data>
 		</dict>
-		<key>PlayerSDK.bundle/sorting_icon@3x.png</key>
+		<key>PlayerSDK.bundle/sorting@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bjqWfZYwuR7910605jyKOAfKMOqvSC//tyqZWdE3kr0=
+			bYceykfwNUyIq+xcWUeqGonKtlR4y/TaJkGAyaSSy28=
 			</data>
 		</dict>
 		<key>PlayerSDK.bundle/video.png</key>
