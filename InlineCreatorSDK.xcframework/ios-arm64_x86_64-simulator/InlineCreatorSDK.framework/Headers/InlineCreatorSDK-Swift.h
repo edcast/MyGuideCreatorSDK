@@ -221,7 +221,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, strong) CreatorSDK * _Null_uns
 + (CreatorSDK * _Null_unspecified)shared SWIFT_WARN_UNUSED_RESULT;
 + (void)setShared:(CreatorSDK * _Null_unspecified)value;
 @property (nonatomic, strong) UIImage * _Nullable launchIcon;
-- (void)hideSDKLauncherIconWithHide:(BOOL)hide withAnimation:(BOOL)animated;
+- (void)hideCreatorSDKLauncherIconWithHide:(BOOL)hide withAnimation:(BOOL)animated;
 + (void)deInitializeSDK;
 + (void)initializeWithOrgnizationKey:(NSString * _Nonnull)orgnizationKey secretKey:(NSString * _Nonnull)secretKey dict:(NSDictionary<NSString *, NSString *> * _Nullable)dict;
 + (void)setSDKLaunchIconWithIcon:(UIImage * _Nullable)icon;
@@ -243,7 +243,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, strong) PlayerSDK * _Nonnull s
 + (PlayerSDK * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;
 + (void)setShared:(PlayerSDK * _Nonnull)value;
 @property (nonatomic, strong) UIImage * _Nullable launchIcon;
-- (void)hideSDKLauncherIconWithHide:(BOOL)hide withAnimation:(BOOL)animated;
+- (void)hidePlayerSDKLauncherIconWithHide:(BOOL)hide withAnimation:(BOOL)animated;
 + (void)deInitializeSDK;
 + (void)initializeWithOrgnizationKey:(NSString * _Nonnull)orgnizationKey secretKey:(NSString * _Nonnull)secretKey dict:(NSDictionary<NSString *, NSString *> * _Nullable)dict;
 + (void)setSDKLaunchIconWithIcon:(UIImage * _Nullable)icon;
@@ -517,7 +517,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, strong) CreatorSDK * _Null_uns
 + (CreatorSDK * _Null_unspecified)shared SWIFT_WARN_UNUSED_RESULT;
 + (void)setShared:(CreatorSDK * _Null_unspecified)value;
 @property (nonatomic, strong) UIImage * _Nullable launchIcon;
-- (void)hideSDKLauncherIconWithHide:(BOOL)hide withAnimation:(BOOL)animated;
+- (void)hideCreatorSDKLauncherIconWithHide:(BOOL)hide withAnimation:(BOOL)animated;
 + (void)deInitializeSDK;
 + (void)initializeWithOrgnizationKey:(NSString * _Nonnull)orgnizationKey secretKey:(NSString * _Nonnull)secretKey dict:(NSDictionary<NSString *, NSString *> * _Nullable)dict;
 + (void)setSDKLaunchIconWithIcon:(UIImage * _Nullable)icon;
@@ -539,7 +539,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, strong) PlayerSDK * _Nonnull s
 + (PlayerSDK * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;
 + (void)setShared:(PlayerSDK * _Nonnull)value;
 @property (nonatomic, strong) UIImage * _Nullable launchIcon;
-- (void)hideSDKLauncherIconWithHide:(BOOL)hide withAnimation:(BOOL)animated;
+- (void)hidePlayerSDKLauncherIconWithHide:(BOOL)hide withAnimation:(BOOL)animated;
 + (void)deInitializeSDK;
 + (void)initializeWithOrgnizationKey:(NSString * _Nonnull)orgnizationKey secretKey:(NSString * _Nonnull)secretKey dict:(NSDictionary<NSString *, NSString *> * _Nullable)dict;
 + (void)setSDKLaunchIconWithIcon:(UIImage * _Nullable)icon;
