@@ -6,6 +6,6 @@ framework module InlineCreatorSDK {
 }
 
 module InlineCreatorSDK.Swift {
-    header "InlineCreatorSDK-Swift.h"
-    requires objc
+  header "InlineCreatorSDK-Swift.h"
+  requires objc
 }
