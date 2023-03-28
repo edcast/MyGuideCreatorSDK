@@ -312,7 +312,6 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, strong) PlayerSDK * _Nonnull s
 
 
 
-
 @interface UINavigationController (SWIFT_EXTENSION(InlineCreatorSDK)) <UIGestureRecognizerDelegate>
 @end
 
