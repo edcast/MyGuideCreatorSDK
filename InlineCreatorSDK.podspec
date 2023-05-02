@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
 s.name              =   "InlineCreatorSDK"
 
-s.version           =   "2.4.0"
+s.version           =   "2.5.0"
 
 s.summary           =   "Simple SDK for developers to integrate with their app and provide in-app guidance for their users."
 
