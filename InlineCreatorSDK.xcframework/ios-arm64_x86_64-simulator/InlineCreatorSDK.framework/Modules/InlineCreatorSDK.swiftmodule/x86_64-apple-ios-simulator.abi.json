@@ -13348,35 +13348,42 @@
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuideCreatorSDK-iOS\/InlineCreatorSDK\/Source\/Controllers\/Launcher\/ICSDKContainerCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 1443,
+      "offset": 1512,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuideCreatorSDK-iOS\/InlineCreatorSDK\/Source\/Controllers\/Launcher\/ICSDKContainerCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 1680,
+      "offset": 1625,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuideCreatorSDK-iOS\/InlineCreatorSDK\/Source\/Controllers\/Launcher\/ICSDKContainerCoordinator.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1834,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuideCreatorSDK-iOS\/InlineCreatorSDK\/Source\/Controllers\/Launcher\/ICSDKContainerCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 1701,
+      "offset": 1855,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuideCreatorSDK-iOS\/InlineCreatorSDK\/Source\/Controllers\/Launcher\/ICSDKContainerCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 2709,
+      "offset": 2863,
       "length": 3,
       "value": "\"0\""
     },
     {
       "filePath": "\/Users\/pparmar\/Desktop\/Projects\/MyGuide\/MyGuideCreatorSDK-iOS\/InlineCreatorSDK\/Source\/Controllers\/Launcher\/ICSDKContainerCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 3200,
+      "offset": 3354,
       "length": 2,
       "value": "\"\""
     },
