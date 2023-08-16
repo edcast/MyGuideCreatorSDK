@@ -352,6 +352,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, strong) PlayerSDK * _Nonnull s
 
 
 
+
 #endif
 #if defined(__cplusplus)
 #endif
@@ -684,6 +685,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, strong) PlayerSDK * _Nonnull s
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
+
 
 
 
