@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)
+// swift-compiler-version: Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)
 // swift-module-flags: -target x86_64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name InlineCreatorSDK
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import AVFoundation
@@ -26,6 +26,7 @@ import UIKit
 import WebKit
 import _Concurrency
 import _StringProcessing
+import _SwiftConcurrencyShims
 import os.log
 import os
 infix operator |> : AdditionPrecedence
@@ -100,17 +101,18 @@ open class KeychainSwift {
   open func clear() -> Swift.Bool
   @objc deinit
 }
-@objc @_hasMissingDesignatedInitializers @objcMembers public class CreatorSDK : ObjectiveC.NSObject {
+@objc @_hasMissingDesignatedInitializers @objcMembers public class CreatorSDK : InlineCreatorSDK.ICPSDKBase {
   @objc public static var shared: InlineCreatorSDK.CreatorSDK!
-  @objc public var launchIcon: UIKit.UIImage? {
-    @objc get
-    @objc set
-  }
-  @objc public func hideCreatorSDKLauncherIcon(hide: Swift.Bool, withAnimation animated: Swift.Bool)
   @objc public class func deInitializeSDK()
   @objc public class func initializeWith(orgnizationKey: Swift.String, secretKey: Swift.String, dict: [Swift.String : Swift.String]? = nil)
-  @objc public class func setSDKLaunchIcon(icon: UIKit.UIImage?)
-  @objc public class func setSDKLaunchPosition(position: CoreFoundation.CGPoint)
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers public class ICPSDKBase : ObjectiveC.NSObject {
+  public var launchIcon: UIKit.UIImage? {
+    get
+    set
+  }
+  @objc override dynamic public init()
   @objc deinit
 }
 extension UIKit.UIView {
@@ -118,17 +120,10 @@ extension UIKit.UIView {
 }
 public typealias KFCrossPlatformImage = UIKit.UIImage
 public typealias KFCrossPlatformColor = UIKit.UIColor
-@objc @_hasMissingDesignatedInitializers @objcMembers public class PlayerSDK : ObjectiveC.NSObject {
+@objc @_hasMissingDesignatedInitializers @objcMembers public class PlayerSDK : InlineCreatorSDK.ICPSDKBase {
   @objc public static var shared: InlineCreatorSDK.PlayerSDK
-  @objc public var launchIcon: UIKit.UIImage? {
-    @objc get
-    @objc set
-  }
-  @objc public func hidePlayerSDKLauncherIcon(hide: Swift.Bool, withAnimation animated: Swift.Bool)
   @objc public class func deInitializeSDK()
   @objc public class func initializeWith(orgnizationKey: Swift.String, secretKey: Swift.String, dict: [Swift.String : Swift.String]? = nil)
-  @objc public class func setSDKLaunchIcon(icon: UIKit.UIImage?)
-  @objc public class func setSDKLaunchPosition(position: CoreFoundation.CGPoint)
   @objc deinit
 }
 extension InlineCreatorSDK.KeychainSwiftAccessOptions : Swift.Equatable {}

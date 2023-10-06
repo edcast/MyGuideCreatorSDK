@@ -1,7 +1,7 @@
 framework module InlineCreatorSDK {
   umbrella header "InlineCreatorSDK.h"
-
   export *
+
   module * { export * }
 }
 
