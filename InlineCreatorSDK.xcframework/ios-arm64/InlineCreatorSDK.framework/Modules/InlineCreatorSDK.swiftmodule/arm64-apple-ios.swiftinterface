@@ -115,11 +115,11 @@ open class KeychainSwift {
   @objc override dynamic public init()
   @objc deinit
 }
+public typealias KFCrossPlatformImage = UIKit.UIImage
+public typealias KFCrossPlatformColor = UIKit.UIColor
 extension UIKit.UIView {
   @_Concurrency.MainActor(unsafe) public func applyUniqueIdentifer(identifier: Swift.String, label: Swift.String)
 }
-public typealias KFCrossPlatformImage = UIKit.UIImage
-public typealias KFCrossPlatformColor = UIKit.UIColor
 @objc @_hasMissingDesignatedInitializers @objcMembers public class PlayerSDK : InlineCreatorSDK.ICPSDKBase {
   @objc public static var shared: InlineCreatorSDK.PlayerSDK
   @objc public class func deInitializeSDK()
